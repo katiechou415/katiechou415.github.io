@@ -77,11 +77,11 @@ html, body {
 }
 
 #main {
-	padding: 100px 20px;
+	padding: 50px 20px;
 	text-align: center;
 }
-#main p {
-
+#main .poem {
+	padding: 50px 0;
 }
 
 @media (max-width: 767px){
